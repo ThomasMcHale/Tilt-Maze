@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Don't need to upload these for the project to work
+Library
+Builds
+Temp
+Tilt Maze.sln
